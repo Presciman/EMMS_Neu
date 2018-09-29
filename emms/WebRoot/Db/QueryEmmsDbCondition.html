@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>QueryDbCondition</title>
+</head>
+
+
+<body>
+  <form action="/emms/servlet/EmmsDbQueryServlet" method="post" target="result">
+    <table>
+      <tr>
+        <td>备件编号</td>
+        <td><input type="text" name="no"/></td> 
+      </tr>
+      <div style="color:#CCC">
+        <button onclick="doQuery()">查询</button>
+      </div>
+    </table>
+  </form>
+</body>
+<script type="text/javascript">
+   function doQuery()
+   {
+      document.forms[0].submit();
+      
+   }
+</script>
+</html>

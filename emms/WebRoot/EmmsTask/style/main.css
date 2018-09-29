@@ -1,0 +1,173 @@
+A:link {
+	 FONT-FAMILY: "宋体","Arial"; TEXT-DECORATION: none
+}
+A:visited {
+	 FONT-FAMILY: "宋体","Arial"; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #E62275; FONT-FAMILY: "宋体","Arial"; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #880000; FONT-FAMILY: "宋体","Arial"; TEXT-DECORATION: none
+}
+A.linkMenu:link {
+	COLOR: #000000; FONT-FAMILY: "宋体","Arial"; TEXT-DECORATION: none
+}
+A.linkMenu:visited {
+	COLOR: #000000; FONT-FAMILY: "宋体","Arial"; TEXT-DECORATION: none
+}
+A.linkMenu:hover {
+	COLOR: #cc0000; FONT-FAMILY: "宋体","Arial"; TEXT-DECORATION: none
+}
+A.linkMenu:active {
+	COLOR: #cc0000; FONT-FAMILY: "宋体","Arial"; TEXT-DECORATION: none
+}
+A.linkhead:link {
+	COLOR: #ffffff; FONT-FAMILY: "宋体","Arial"; TEXT-DECORATION: none
+}
+A.linkhead:visited {
+	COLOR: #ffb0b0; FONT-FAMILY: "宋体","Arial"; TEXT-DECORATION: none
+}
+A.linkhead:hover {
+	COLOR: #ffb0b0; FONT-FAMILY: "宋体","Arial"; TEXT-DECORATION: none
+}
+A.linkhead:active {
+	COLOR: #ffb0b0; FONT-FAMILY: "宋体","Arial"; TEXT-DECORATION: none
+}
+TABLE {
+	COLOR: #000000; FONT-FAMILY: "宋体","Arial"; FONT-SIZE: 12px
+}
+
+STYLE TYPEtextcss .dummy {
+	
+}
+.main-link {
+	COLOR: #000000;Font-size:12px;FONT-FAMILY: "宋体","Arial"
+}
+.main-link-highlighted {
+	COLOR: #000000; FONT-WEIGHT: bold
+}
+.standard-highlighted {
+	COLOR: #cc0000; FONT-WEIGHT: bold
+}
+.highlighted {
+	FONT-WEIGHT: bold
+}
+.error-title {
+	COLOR: #cc0000; FONT-SIZE: 1.33em; FONT-WEIGHT: bold
+}
+.error-message {
+	FONT-SIZE: 1.2em
+}
+.error-info {
+	
+}
+.logout-text-style {
+	COLOR: #ffffff; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.header-menu {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.header-menu2 {
+	COLOR: #FFFFFF; TEXT-DECORATION: none; FONT-SIZE: 9.5pt
+}
+.header-menu-selected {
+	BACKGROUND-COLOR: #996666; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.search-section-name {
+	FONT-SIZE: 1.33em; FONT-WEIGHT: bold
+}
+.search-invalid-field {
+	COLOR: #cc0000; FONT-WEIGHT: bold
+}
+.search-required-field {
+	
+}
+.search-folder-name {
+	FONT-WEIGHT: bold
+}
+.arrow {
+	BACKGROUND-COLOR: #000000; BORDER-BOTTOM: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; COLOR: #ffffff; CURSOR: hand; FONT-FAMILY: Microsoft Sans Serif; FONT-SIZE: 1.06em; FONT-STYLE: normal; FONT-WEIGHT: normal; TEXT-ALIGN: center; VERTICAL-ALIGN: middle
+}
+.arrownorm {
+	COLOR: #ffffff; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.arrowrover {
+	COLOR: #cc3333; CURSOR: hand; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.weekday {
+	BACKGROUND-COLOR: #ddddbb; BORDER-BOTTOM: #000000 1px solid; COLOR: #000000; FONT-SIZE: 1.06em; FONT-STYLE: normal; FONT-WEIGHT: normal; TEXT-ALIGN: center; VERTICAL-ALIGN: middle
+}
+.day {
+	BACKGROUND-COLOR: #eeeeee; COLOR: #000000; CURSOR: hand; FONT-SIZE: 1.06em; FONT-STYLE: normal; FONT-WEIGHT: normal; TEXT-ALIGN: center; VERTICAL-ALIGN: middle
+}
+.event {
+	BACKGROUND-COLOR: #000000; BORDER-BOTTOM: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; COLOR: #ffffff; FONT-SIZE: 1.06em; FONT-STYLE: normal; FONT-WEIGHT: normal; TEXT-ALIGN: center; VERTICAL-ALIGN: middle
+}
+.norm {
+	COLOR: #000000; CURSOR: hand; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.grayOut {
+	COLOR: #999999; CURSOR: hand; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.arrownorm {
+	COLOR: #ffffff; CURSOR: hand; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.inner {
+	BORDER-BOTTOM: #777777 1px solid; BORDER-LEFT: #ffffff 1px solid; BORDER-RIGHT: #777777 1px solid; BORDER-TOP: #ffffff 1px solid
+}
+.login-toolbar-title {
+	FONT-SIZE: 1.2em; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.login-global {
+	BACKGROUND-COLOR: #cccccc; BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-RIGHT: 0px; BORDER-TOP: 0px
+}
+.login-global TD {
+	COLOR: #000000
+}
+.login-title {
+	BACKGROUND-COLOR: #808080
+}
+.login-title-text {
+	COLOR: #ffffff; FONT-SIZE: 1.33em; FONT-WEIGHT: bold
+}
+.login-border {
+	BACKGROUND-COLOR: #ffffff
+}
+.login-button {
+	COLOR: #000000; CURSOR: hand; FONT-FAMILY: Microsoft Sans Serif; FONT-SIZE: 1.1em; FONT-WEIGHT: bold; LINE-HEIGHT: 0.85; PADDING-TOP: 2px; Z-INDEX: 2
+}
+.login-box {
+	FONT-FAMILY: Microsoft Sans Serif; FONT-SIZE: 1.1em
+}
+.login-links-section {
+	BACKGROUND-COLOR: #bdbdbd; BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-RIGHT: 0px; BORDER-TOP: 0px
+}
+.login-links-section TD {
+	COLOR: #000000
+}
+.login-quick-links {
+	FONT-WEIGHT: bold
+}
+.changePwd-header {
+	FONT-SIZE: 1.33em; FONT-WEIGHT: bold
+}
+.changePwd-text {
+	FONT-SIZE: 1.33em
+}
+.changePwd-title {
+	FONT-SIZE: 1.33em; FONT-WEIGHT: bold
+}
+.changePwd-button {
+	CURSOR: hand; FONT-SIZE: 1.06em; FONT-WEIGHT: bold; LINE-HEIGHT: 0.85; PADDING-TOP: 2px; Z-INDEX: 2
+}
+
+.csItemTitle1Center{
+	text-align:center;
+	font-weight:bold;
+}
+
+.csItemTitle2Center{
+	text-align:center;
+	font-weight:bold;
+}

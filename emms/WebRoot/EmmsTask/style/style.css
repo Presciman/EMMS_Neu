@@ -1,0 +1,45 @@
+BODY {
+	BACKGROUND-COLOR: #ffffff; COLOR: #000000; FONT-FAMILY: ; FONT-SIZE: 9pt
+}
+INPUT {
+    FONT-SIZE: 9pt
+}
+SELECT {
+	FONT-SIZE: 9pt; LINE-HEIGHT: 9pt; FONT-FAMILY: Tahoma,Verdana
+}
+TEXTAREA {
+	FONT-SIZE: 9pt; LINE-HEIGHT: 9pt; FONT-FAMILY: Tahoma,Verdana
+}
+
+TABLE {
+	COLOR: #000000; FONT-FAMILY: "宋体","Arial"; FONT-SIZE: 9pt
+}
+
+TD {
+	COLOR: #000000; FONT-FAMILY: "宋体","Arial"; FONT-SIZE: 9pt
+}
+A:link {
+	COLOR: #880000; FONT-FAMILY: "宋体","Arial"; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #880000; FONT-FAMILY: "宋体","Arial"; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #E62275; FONT-FAMILY: "宋体","Arial"; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #880000; FONT-FAMILY: "宋体","Arial"; TEXT-DECORATION: none
+}
+A.attach:link {
+	COLOR: #493eb5; FONT-FAMILY: "宋体","Arial"; TEXT-DECORATION: none
+}
+A.attach:visited {
+	COLOR: #493eb5; FONT-FAMILY: "宋体","Arial"; TEXT-DECORATION: none
+}
+A.attach:hover {
+	COLOR: #493eb5; FONT-FAMILY: "宋体","Arial"; TEXT-DECORATION: none
+}
+A.attach:active {
+	COLOR: #493eb5; FONT-FAMILY: "宋体","Arial"; TEXT-DECORATION: none
+}
+
